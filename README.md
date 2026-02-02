@@ -2,6 +2,8 @@
 
 Goes through 0-179 hues and automatically outputs to source folder.   
 
+Make sure directory you are working in only has one PNG or JPG
+
 Make sure input looks like this:  
 
 "C:\Images\Eye_Light.png"  
