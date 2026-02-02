@@ -7,3 +7,5 @@ Make sure input looks like this:
 "C:\Images\Eye_Light.png"  
 
 Will output in same directory as source image.
+<img width="1602" height="672" alt="Screenshot 2026-02-02 123330" src="https://github.com/user-attachments/assets/5300d19e-ff5d-4251-a931-b26640fe5111" />
+<img width="1604" height="933" alt="Screenshot 2026-02-02 132604" src="https://github.com/user-attachments/assets/93de0bf7-f92c-491a-b373-c5b5a99df4b9" />
