@@ -1,3 +1,6 @@
+***READ THIS***
+***Requires OpenCv to be installed, looking into shipping it with dependencies!***
+
 # Automatic-Hue-Changer-For-PNG-and-JPG
 
 Goes through 0-179 hues and automatically outputs to source folder.   
